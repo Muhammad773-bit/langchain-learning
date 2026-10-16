@@ -1,0 +1,12 @@
+langchain
+langchain-community
+langchain-huggingface
+chromadb
+langchain-chroma
+sentence-transformers
+pypdf
+docx2txt
+unstructured
+python-pptx
+torch
+transformers
